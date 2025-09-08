@@ -1,26 +1,3 @@
-Please accept this assignment:
-
-GitHub Classroom Assignment Link
-
-This time, you will not see your name listed. Simply click Accept Assignment.
-
-Follow these steps:
-
-Zoom Recording: How to Accept the Assignment
-
-If the repository opens in your browser and shows the starter files, the assignment has been set up successfully.
-
-If you continue to have errors (such as not having access or being unable to push changes), we will switch from HTTPS to SSH for cloning.
-
-Next steps (if errors persist):
-
-We will log in using a Personal Access Token (already set up on my end) and clone via SSH instead of HTTPS.
-
-Zoom Recording: How to Use SSH Clone Links
-
-When you click Clone Repository or Get from VCS in your IDE, select the SSH option instead of HTTPS.
-
-Use the SSH URL of your repository, as shown in the video to complete cloning.
 
 
 
