@@ -5,7 +5,7 @@ Right-click the repo folder → New → C++ Source File → name it main.
 
 This creates main.cpp.
 
-  2. Make sure you can run
+Make sure you can run
 
 CLion may prompt you to create a CMake configuration. Accept it.
 
